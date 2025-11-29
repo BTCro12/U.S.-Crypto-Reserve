@@ -1,0 +1,25 @@
+{
+  "name": "U.S. Crypto Reserve Index",
+  "symbol": "USCR",
+  "description": "A decentralized multi-asset crypto index representing the U.S. blockchain economy.",
+  "image": "https://raw.githubusercontent.com/BTCro12/U.S.-Crypto-Reserve/main/file_00000000bf587246b1058b7d8c9b6ca6.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Category", "value": "Crypto Index" },
+    { "trait_type": "Region", "value": "United States" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BTCro12/U.S.-Crypto-Reserve/main/file_00000000bf587246b1058b7d8c9b6ca6.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3qWVfGHRohJzmeL26Gih2tLWdS1K7FJYpMHB52LPCnJf",
+        "share": 100
+      }
+    ]
+  }
+}
